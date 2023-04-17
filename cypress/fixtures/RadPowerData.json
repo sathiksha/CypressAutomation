@@ -1,0 +1,15 @@
+{
+    "Rad": {
+        "Url" : "https://www.radpowerbikes.com/",
+      "SearchInput": "RadWagon 4 Electric Cargo Bike",
+      "Email":"email@yopmail.com",
+      "FirstName": "Sathik",
+      "LastName":"Sha",
+      "Address":"123 William Street",
+      "PhoneNumber":"9879980989",
+      "CardNumber":"4222 2222 2222 2",
+      "CardName":"visa",
+      "ExpireDate": "3455",
+      "SecurityCode": "400"
+    }
+  }

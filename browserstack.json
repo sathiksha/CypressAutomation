@@ -1,0 +1,89 @@
+{
+    "auth": {
+      "username": "sathiksha_aux1ho",
+      "access_key": "mp3htyvVeMchJqfJAzqp"
+    },
+    "browsers": [
+      {
+        "browser": "chrome",
+        "os": "Windows 10",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "firefox",
+        "os": "Windows 10",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "edge",
+        "os": "Windows 10",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "chrome",
+        "os": "OS X Mojave",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "firefox",
+        "os": "OS X Mojave",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "edge",
+        "os": "OS X Mojave",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "chrome",
+        "os": "OS X Catalina",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "firefox",
+        "os": "OS X Catalina",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      },
+      {
+        "browser": "edge",
+        "os": "OS X Catalina",
+        "versions": [
+          "latest",
+          "latest-1"
+        ]
+      }
+    ],
+    "run_settings": {
+      "cypress_config_file": "cypress.config.json",
+      "project_name": "CYPRESSAUTOMATION",
+      "build_name": "Cypress Build",
+      "parallels": "3"
+     
+    }
+    
+  }
+  
