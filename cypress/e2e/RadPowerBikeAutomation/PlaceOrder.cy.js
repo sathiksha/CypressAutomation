@@ -17,7 +17,7 @@ describe('Place an order as guest user', () => {
   });
 
   it('Place the Product', () => {
-    ln = new RadPowerPage();
+    ln = new   RadPowerPage();
 
     ln.SearchIcon()
     ln.SearchInput(testData.Rad.SearchInput)
